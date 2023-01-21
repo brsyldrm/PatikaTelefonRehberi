@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaTelefonRehberi", "PatikaTelefonRehberi\PatikaTelefonRehberi.csproj", "{3E1CE689-5341-4555-8437-00E39086E3F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "patikaprojeler", "patikaprojeler", "{B943A881-D2F7-4E14-ADC4-022697551236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciOrt", "FibonacciOrt\FibonacciOrt.csproj", "{4F0284D4-A98F-45D4-8C8D-BA6F19082266}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawTriangle", "DrawTriangle\DrawTriangle.csproj", "{6532C436-150A-4724-8772-4624FF03B07F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E1CE689-5341-4555-8437-00E39086E3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1CE689-5341-4555-8437-00E39086E3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1CE689-5341-4555-8437-00E39086E3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1CE689-5341-4555-8437-00E39086E3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F0284D4-A98F-45D4-8C8D-BA6F19082266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0284D4-A98F-45D4-8C8D-BA6F19082266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F0284D4-A98F-45D4-8C8D-BA6F19082266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F0284D4-A98F-45D4-8C8D-BA6F19082266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6532C436-150A-4724-8772-4624FF03B07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6532C436-150A-4724-8772-4624FF03B07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6532C436-150A-4724-8772-4624FF03B07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6532C436-150A-4724-8772-4624FF03B07F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4F0284D4-A98F-45D4-8C8D-BA6F19082266} = {B943A881-D2F7-4E14-ADC4-022697551236}
+		{6532C436-150A-4724-8772-4624FF03B07F} = {B943A881-D2F7-4E14-ADC4-022697551236}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9726653-4A71-4528-84B3-08AD875BACE4}
+	EndGlobalSection
+EndGlobal

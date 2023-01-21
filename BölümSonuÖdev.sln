@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciOrt", "FibonacciOr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawTriangle", "DrawTriangle\DrawTriangle.csproj", "{6532C436-150A-4724-8772-4624FF03B07F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawCircle", "DrawCircle\DrawCircle.csproj", "{5E3B4F6C-1C07-4528-8977-7D99F4870C22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{6532C436-150A-4724-8772-4624FF03B07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6532C436-150A-4724-8772-4624FF03B07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6532C436-150A-4724-8772-4624FF03B07F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E3B4F6C-1C07-4528-8977-7D99F4870C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3B4F6C-1C07-4528-8977-7D99F4870C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3B4F6C-1C07-4528-8977-7D99F4870C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3B4F6C-1C07-4528-8977-7D99F4870C22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +42,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{4F0284D4-A98F-45D4-8C8D-BA6F19082266} = {B943A881-D2F7-4E14-ADC4-022697551236}
 		{6532C436-150A-4724-8772-4624FF03B07F} = {B943A881-D2F7-4E14-ADC4-022697551236}
+		{5E3B4F6C-1C07-4528-8977-7D99F4870C22} = {B943A881-D2F7-4E14-ADC4-022697551236}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B9726653-4A71-4528-84B3-08AD875BACE4}

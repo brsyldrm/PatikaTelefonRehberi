@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutlakKareAlma", "MutlakKar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstLastCharacter", "FirstLastCharacter\FirstLastCharacter.csproj", "{640CD9C9-B45F-49FA-A7D5-E22F6469DEFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detection", "Detection\Detection.csproj", "{1B8AE211-068A-452E-87F4-0EEA5773C99E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{640CD9C9-B45F-49FA-A7D5-E22F6469DEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{640CD9C9-B45F-49FA-A7D5-E22F6469DEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{640CD9C9-B45F-49FA-A7D5-E22F6469DEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B8AE211-068A-452E-87F4-0EEA5773C99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8AE211-068A-452E-87F4-0EEA5773C99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8AE211-068A-452E-87F4-0EEA5773C99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8AE211-068A-452E-87F4-0EEA5773C99E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -85,6 +91,7 @@ Global
 		{435D6CE6-67CD-4A49-9DCB-6D7B4A42FF66} = {B943A881-D2F7-4E14-ADC4-022697551236}
 		{073849A2-B10A-4AB5-B844-B00DA01558F5} = {B943A881-D2F7-4E14-ADC4-022697551236}
 		{640CD9C9-B45F-49FA-A7D5-E22F6469DEFD} = {B943A881-D2F7-4E14-ADC4-022697551236}
+		{1B8AE211-068A-452E-87F4-0EEA5773C99E} = {B943A881-D2F7-4E14-ADC4-022697551236}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B9726653-4A71-4528-84B3-08AD875BACE4}

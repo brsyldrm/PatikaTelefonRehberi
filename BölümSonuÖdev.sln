@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgStr", "AlgStr\AlgStr.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrReverse", "StrReverse\StrReverse.csproj", "{AB7AF66A-151A-4ED0-8D97-28D68E8CD33C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shapeCalc", "shapeCalc\shapeCalc.csproj", "{AEC58453-A52C-4F2A-A22B-8FD5A5F5C4B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{AB7AF66A-151A-4ED0-8D97-28D68E8CD33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB7AF66A-151A-4ED0-8D97-28D68E8CD33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB7AF66A-151A-4ED0-8D97-28D68E8CD33C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC58453-A52C-4F2A-A22B-8FD5A5F5C4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC58453-A52C-4F2A-A22B-8FD5A5F5C4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC58453-A52C-4F2A-A22B-8FD5A5F5C4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC58453-A52C-4F2A-A22B-8FD5A5F5C4B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -57,6 +63,7 @@ Global
 		{5E3B4F6C-1C07-4528-8977-7D99F4870C22} = {B943A881-D2F7-4E14-ADC4-022697551236}
 		{E7CD5E5E-DC1F-4B6F-92C1-CEBFDDCED2DB} = {B943A881-D2F7-4E14-ADC4-022697551236}
 		{AB7AF66A-151A-4ED0-8D97-28D68E8CD33C} = {B943A881-D2F7-4E14-ADC4-022697551236}
+		{AEC58453-A52C-4F2A-A22B-8FD5A5F5C4B5} = {B943A881-D2F7-4E14-ADC4-022697551236}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B9726653-4A71-4528-84B3-08AD875BACE4}
